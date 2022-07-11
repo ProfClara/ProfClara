@@ -1,6 +1,6 @@
 ## Teacher's Claire Profile ##
 
-  <img align="center" src="https://picrew.me/shareImg/org/202207/338224_mfkZdPUk.png" alt="Prof-pic" height="150" width="150">
+  <img align="center" src="https://i.picasion.com/pic92/4fb3fb33f7bf47d8b0b8f3547ff97756.gif" height="150" width="150">
 
 <section>
 
